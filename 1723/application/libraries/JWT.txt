@@ -1,0 +1,2 @@
+require APPPATH . '/libraries/Firebase/JWT/JWT.php';
+use \Firebase\JWT\JWT;
